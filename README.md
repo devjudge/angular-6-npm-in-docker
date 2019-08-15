@@ -2,7 +2,7 @@
 Angular 6 SPA
 
 IMPORTANT NOTES: 
-1. The backend endpoint host url is mentioned in environment.ts as well as environment.prod.ts. The field name is "apiUrl". PLEASE USE THIS PROPERTY WHEN YOU ARE TRYING TO CALL A BACKEND API. 
+1. The backend endpoint host url is mentioned in environment.ts as well as environment.prod.ts. The property name is "apiUrl". PLEASE USE THIS PROPERTY WHEN YOU ARE TRYING TO CALL A BACKEND API. 
 2. Make sure that the properties mentioned in environment.ts are also mentioned in environment.prod.ts for the app to build properly.
 3. Make sure you follow the steps mentioned under "PROJECT START STEPS" and ensure that the steps execute successfully. 
 4. Make sure you follow the steps mentioned under "DOCKER START STEPS" and ensure that the steps execute successfully. 
